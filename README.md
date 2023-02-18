@@ -18,3 +18,8 @@ It should look like this
 <br>
 
 - Execute RunApp.py
+
+
+![2](https://user-images.githubusercontent.com/73878161/219904128-5b890605-1bfe-4d8d-9e67-736d6eeaeb3b.png)
+
+![3](https://user-images.githubusercontent.com/73878161/219904132-1009a984-404b-4889-b115-39670dcbbd61.png)
