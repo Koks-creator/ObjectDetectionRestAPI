@@ -8,10 +8,6 @@ from ApiYoloDetector.YoloApp import models_list, models_info, model_files
 from ApiYoloDetector.YoloApp.fields import detection_fields, model_info_field
 from ApiYoloDetector.YoloApp.parsers import detection_parser, model_info_parser
 
-"""
-testy dla zapytan
-"""
-
 
 class DetectionListModels(Resource):
     def get(self):
